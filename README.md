@@ -2,7 +2,9 @@
 
 Vou postar aqui meus avanços no curso web que estou fazendo.
 
-Ainda não tenho certeza qual será meu rumo no web, mas talvez seja backend. Após finalizar o curso pretendo começar o estudo de Laravel.
+Ainda não tenho certeza qual será meu rumo no web, mas talvez seja backend. 
+
+Após finalizar o curso pretendo começar o estudo de Laravel.
 
 ## Tecnologias usadas
 
